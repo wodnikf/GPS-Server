@@ -17,3 +17,6 @@ then pick the right output to use GPS.
 
 The GPS should fix automaticly after connecting to the computer after couple seconds. 
 
+And pls, check if you have the drivers :)
+I used CP210x Macintosh OS VCP Driver 6.0.2     - October 26, 2021 
+From Silicon Laboratories Inc.
